@@ -1,0 +1,7 @@
+2025-07-20 03:35:35,399 - __main__ - INFO - Geometry file selected: C:/Users/gaddi/OneDrive/projects/digital twin/nozzle.STEP
+2025-07-20 03:35:51,131 - __main__ - INFO - Output directory selected: C:/Users/gaddi/OneDrive/projects/digital twin/results
+2025-07-20 03:41:18,401 - __main__ - INFO - Added point at (0.5, 0.6000000000000001)
+2025-07-20 03:41:20,582 - __main__ - INFO - Added point at (0.8, 0.6000000000000001)
+2025-07-20 03:41:21,889 - __main__ - INFO - Added point at (0.8, 0.4)
+2025-07-20 03:41:23,923 - __main__ - INFO - Added point at (0.5, 0.4)
+2025-07-20 03:42:22,767 - __main__ - INFO - GUI closed by user.
